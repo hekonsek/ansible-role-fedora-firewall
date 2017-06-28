@@ -8,7 +8,7 @@ This playbook has been tested against Fedora 25.
 
 ## Installation 
 
-    ansible-galaxy install hekonsek:fedora-firewall,0.5
+    ansible-galaxy install hekonsek.fedora-firewall,0.5
 
 ## Example Playbook
 
