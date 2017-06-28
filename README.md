@@ -6,6 +6,10 @@ An Ansible role that ensures that firewall on Fedora is installed, running and a
 
 This playbook has been tested against Fedora 25.
 
+## Installation 
+
+    ansible-galaxy install hekonsek:fedora-firewall,0.1
+
 ## Example Playbook
 
     - hosts: localhost
