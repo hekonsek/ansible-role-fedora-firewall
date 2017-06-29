@@ -10,7 +10,7 @@ This playbook has been tested against Fedora 25.
 
     ansible-galaxy install hekonsek.fedora-firewall,0.5
 
-## Example Playbook
+## Example playbook
 
     - hosts: localhost
       roles:
